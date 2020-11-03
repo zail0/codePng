@@ -8,7 +8,7 @@ let fontSwitchBtn = document.getElementById('font-switch-btn');
 let fontSizeSwitchBtn = document.getElementById('font-size-switch-btn');
 let loader = document.querySelector('.loading');
 let openFileBtn = document.getElementById('open-file-btn');
-let logo = document.querySelector('.karton-logo');
+let logo = document.querySelector('.codePng-logo');
 let watermark = true;
 // let title = document.getElementById('title');
 
