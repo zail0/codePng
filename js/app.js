@@ -74,7 +74,7 @@ const exportImage = (size) => {
             logo.style.display = '';
         preview.style.transform = 'scale(1)';
         let a = document.createElement('a');
-        a.setAttribute('download', 'karton.png');
+        a.setAttribute('download', 'codePng.png');
         a.setAttribute('href', canvas.toDataURL('image/png'));
         a.click();
     });
